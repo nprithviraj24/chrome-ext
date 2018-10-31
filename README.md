@@ -2,7 +2,7 @@
 extension not extention. 
 # Repositories
 ### gChrome  
-    ###### Created using official chrome guide.
+###### Created using official chrome guide.
 
 ### hw 
-    ##### Created by watching a Youtube video.
+##### Created by watching a Youtube video.
