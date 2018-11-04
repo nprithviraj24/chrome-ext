@@ -13,7 +13,16 @@
         "default_popup": "popup.html"
     },
     "options_page": "options.html",
+    "background":{
+        "scripts": ["eventsPage.js"],
+        "persistent": false
+    },
     "permissions": [
-        "storage"
-    ]
+        "storage",
+        "notifications",
+        "contextMenu"
+    ],
+    "web_accessible_resources": [
+        "icon48.png"
+      ]
 }
